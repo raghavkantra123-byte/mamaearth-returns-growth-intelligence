@@ -1,0 +1,11 @@
+Situation
+
+Cleaned revenue is ₹97,358.30, compared with raw revenue of ₹99,860.20. Payment-method analysis shows COD at 44.4% returns, versus CARD at 14.7% and UPI at 18.9%.
+
+Complication
+
+The highest-risk segment is COD in Tier-2 cities at 54.5%. The raw-to-cleaned reconciliation has a ₹2,501.90 duplicate-driven delta. January appears to lead at ₹29,582.10, but that view is distorted by the two bulk-order outliers.
+
+Resolution
+
+Use the cleaned pipeline as the reporting baseline, investigate COD returns in Tier-2 cities first, and keep duplicate detection in the operational data-quality workflow. After removing the two quantity outliers, the true revenue peak is 2026-03 at ₹20,318.90, while January falls to ₹11,637.10.
